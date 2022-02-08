@@ -1,7 +1,7 @@
 # SIMPLE_APP
 
-We have created simple GUI based app using object oriented programming of Python and used the external framework Kivy.
-We used kivy to create the GUI. the design of the GUI is kept at basic level as the project is an beginner level project.
+We have created simple GUI based app using object oriented programming of Python and used the external framework Kivy.<br />
+We used kivy to create the GUI. the design of the GUI is kept at basic level as the project is an beginner level project..<br />
 
 # HOW_TO_RUN_THE_APP
 
