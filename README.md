@@ -5,8 +5,8 @@ We used kivy to create the GUI. the design of the GUI is kept at basic level as 
 
 # HOW_TO_RUN_THE_APP
 
-Step 01:
-  Firstly you need to install kivy frame work.
+Step 01:\n
+  Firstly you need to install kivy frame work.\n
   Use the terminal of pycharm and enter pip install kivy to install the kivy framework.
 Step 02:
   copy the code from CODE.txt. 
