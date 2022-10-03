@@ -31,6 +31,13 @@ If the user click on receiver button the information that is stored in linked li
 The user is as to enter any of the donor serial number and then asked if they haved recived the blood or not if the user says yess the information of that specific person(node).<br />
 Will be deleted from the active linked list and active file and the deleted information will be saved in inactive linked list and inactive file.<br />
 
+# Output Images
+![image](https://user-images.githubusercontent.com/77490589/193578518-6a773e44-e849-41dc-b57c-285e03d48076.png)
+![image](https://user-images.githubusercontent.com/77490589/193578546-2d717d49-f018-4296-8faf-8c049a62581c.png)
+![image](https://user-images.githubusercontent.com/77490589/193578581-8cbd964e-9594-4919-90ec-66d52401617e.png)
+![image](https://user-images.githubusercontent.com/77490589/193578620-512d84b7-cab4-40fc-9004-e202064e57c6.png)
+![image](https://user-images.githubusercontent.com/77490589/193578670-b2bedda2-51f0-4a0c-a816-cef4ee4b7051.png)
+![image](https://user-images.githubusercontent.com/77490589/193578713-e9af3f91-9ad2-4831-a1b9-37b7bc89ec7d.png)
 
 # THANK_YOU 
 HOPE YOU LIKE IT
